@@ -1,0 +1,8 @@
+div.Nav{
+    width: 100%;
+    height:50px;
+    background-color:yellowgreen;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}

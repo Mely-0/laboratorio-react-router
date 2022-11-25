@@ -1,0 +1,28 @@
+div.Card {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.Card2 {
+    width: 70%;
+    height: 95%;
+    background-color: rgb(182, 182, 132);
+    border-radius:15px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: white;
+}
+img.foto{
+    width:25%;
+}
+p{
+    width: 70%;
+    height: 70%;
+    text-align: center;
+}
